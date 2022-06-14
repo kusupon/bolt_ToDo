@@ -1,5 +1,6 @@
 # Description:
 TODO を管理できるボットです
+N予備校webアプリ入門で作成
 ## Commands:
 add      - TODO を作成<br>
 done     - TODO を完了にする<br>
